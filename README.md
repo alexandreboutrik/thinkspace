@@ -6,9 +6,9 @@ This repository serves as a collection of my writings, including papers, article
 
 Below is a list of available works:
 
-| Directory | Title                                                 | Status      | Identifier |
-|:---------:|:------------------------------------------------------|:-----------:|:----------:|
-| kem-acme  | Generating KEM certificates using the ACME protocol   | _Published_ | doi:10.29327/seisicite2024.966085 |
+| Directory | Title                                  | Status      | Identifier | Language |
+|:---------:|:---------------------------------------|:-----------:|:----------:|:--------:|
+| kem-acme  | Geração de Certificados KEM com ACME   | _Published_ | doi:10.29327/seisicite2024.966085 | Portuguese |
 
 ## License
 
